@@ -13,5 +13,7 @@ Built for Minecraft 1.21.1 using NeoForge.
   
   2.Move your .jar file to minecraft mods folder: 
     Windows : C:Users\YOUR_USERNAME\AppData\Roaming\.minecraft\mods
+    
     Linux : \home\YOUR_USERNAME\.minecraft\mods
+    
     MacOS : ~\Library\Application Support\.minecraft\mods 
